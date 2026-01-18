@@ -10,7 +10,7 @@ The focus is not on model training, but on:
 
 ## Repository structure
 
-- `/memos` — polished analysis and decision memos
-- `/experiments` — raw outputs and experimental logs
-- `/notes` — learning notes and reflections
+- `/memos` — polished analysis, QnA and decision memos
+- `/experiments` — python scripts and experimental logs
+- `/notes` — learning notes, raw logs and dictations
 - `/resources` — references and reading material
